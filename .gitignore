@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore the virtual env
+mush-env/
+
 # Ignore jupyter-notebook checkpoints
 .ipynb_checkpoints
 
